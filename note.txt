@@ -27,3 +27,4 @@ Branh
     - git checkout -b ten_nhanh_moi
 +Chyển nhánh
     - git checkout ten_nhanh
+    
