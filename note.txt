@@ -24,4 +24,6 @@ git config --global user.email "si@email.com"
 
 Branh
 +Tạo nhánh mới, nhánh mới sau khi tạo sẽ có nội   dung giống hoàn toàn so với nhánh gốc:
-    - git checkout -b
+    - git checkout -b ten_nhanh_moi
++Chyển nhánh
+    - git checkout ten_nhanh
