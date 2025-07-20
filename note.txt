@@ -16,4 +16,12 @@ git config --global user.email "si@email.com"
 4. Đưa file code từ laptop lên github
     - git add -A
     - git commit -m "message"
-    - git push -u origin master
+    - git push
+        -- Lần 1: git push -u origin master
+        -- Lần 2,3,... : git push
+
+
+
+Branh
++Tạo nhánh mới, nhánh mới sau khi tạo sẽ có nội   dung giống hoàn toàn so với nhánh gốc:
+    - git checkout -b
